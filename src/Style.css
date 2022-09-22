@@ -1,0 +1,55 @@
+.inputEntry {
+  width: 370px;
+  height: 25px;
+  margin-top: 10px;
+}
+#addressEntry {
+  width: 370px;
+  height: 130px;
+  margin-top: 10px;
+}
+#labelDiv {
+  margin-top: 10px;
+  /* width: 100px; */
+  margin-right: 40px;
+}
+.parentform {
+  background-color: white;
+  /* border-radius: 20px; */
+  border: 2px solid black;
+  padding: 2%;
+  margin: 1%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.genderparent {
+  margin-top: 10px;
+}
+.addrssparent {
+  margin-top: -60px;
+}
+.registerbtn {
+  background-color: brown;
+  color: white;
+  width: 100px;
+  height: 30px;
+  border-radius: 8px;
+  margin-top: 40px;
+}
+.parentform td {
+  text-align: left;
+}
+.inputDiv {
+  height: 50px;
+}
+.showdetails {
+  text-align: left;
+  background-color: blanchedalmond;
+  border-radius: 10px;
+  font-size: 20px;
+  padding: 50px;
+  margin: 20%;
+}
+.showdetails tr {
+  margin: 10px;
+}
